@@ -24,7 +24,7 @@
 # projects.
 ---
 | `examples` | `assignments` | `final` |  
-| ----- | ----- | ----- |  
+| ------------- | ------------- | ------------- |  
 | - | 💰 Visualizing Government Debt | ☑️ Part One |  
 | - | 📋 Critique By Design | ☑️ Part Two |  
 | - | - | ☑️ Part Three |  
