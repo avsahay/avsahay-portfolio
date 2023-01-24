@@ -2,7 +2,7 @@
 ---
 > Public portfolio for Telling Stories with Data, Spring 2023 at Carnegie Mellon University.
 
-[Pyramid Data Visualization](https://github.com/avsahay/avsahay-portfolio/blob/a6eea529a7c01add472882ebfa516faf08273c65/pyramid.jpg
+![Pyramid Data Visualization](pyramid.jpg)
 
 # about me.
 ---
@@ -22,6 +22,8 @@
 
 # projects.
 ---
-| `Assignments` | `Critiques` | `Final` |
-| --- | --- | --- |
-
+| `examples` | `assignments` | `final` |
+| :---: | :---: | :---: |
+| - | Visualizing Government Debt | Part One |
+| - | Critique By Design | Part Two |
+| - | - | Part Three |
