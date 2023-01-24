@@ -2,9 +2,9 @@
 ---
 > Public portfolio for Telling Stories with Data, Spring 2023 at Carnegie Mellon University.
 
+[Pyramid Data Visualization](https://github.com/avsahay/avsahay-portfolio/blob/a6eea529a7c01add472882ebfa516faf08273c65/pyramid.jpg
 
-
-# about Me.
+# about me.
 ---
 **Name:** Akanksha Sahay
 **Pronouns:** she/her/hers
