@@ -1,13 +1,15 @@
 # portfolio.
 ---
+<center>
+![Pyramid Data Visualization](pyramid.jpg)  
+[_Source._](https://percentagecalculator.mes.fm/memes/the-great-pyramid-of-giza-pie-chart)  
+</center>
 > Public portfolio for Telling Stories with Data, Spring 2023 at Carnegie Mellon University.
-
-![Pyramid Data Visualization](pyramid.jpg)
 
 # about me.
 ---
 **Name:** Akanksha Sahay  
-**Pronouns:** she/her/hers  
+**Pronouns:** She/her/hers  
 **Program:** Master of Entertainment Industry Management   
 **Education:** B.A. Communication & Media Studies, University of Michigan  
 **Hobbies:** Watching Film/TV, Reading, Dancing, Food  
@@ -23,7 +25,7 @@
 # projects.
 ---
 | `examples` | `assignments` | `final` |  
-| :---: | :---: | :---: |  
+| :-----: | :-----: | :-----: |  
 | - | Visualizing Government Debt | Part One |  
 | - | Critique By Design | Part Two |  
 | - | - | Part Three |  
