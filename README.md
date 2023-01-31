@@ -2,8 +2,8 @@
 ---
 > Public portfolio for Telling Stories with Data, Spring 2023 at Carnegie Mellon University.   
 
-<center>![Pyramid Data Visualization](pyramid.jpg)  
-[Source](https://percentagecalculator.mes.fm/memes/the-great-pyramid-of-giza-pie-chart)</center>  
+![Pyramid Data Visualization](pyramid.jpg)  
+[Source](https://percentagecalculator.mes.fm/memes/the-great-pyramid-of-giza-pie-chart)
 
 # about me.
 ---
