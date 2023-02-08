@@ -36,8 +36,27 @@ I implemented my initial recommendations first. I turned the chart vertical to b
 | student, mid-20s | This looks like the most streamed programs in 2022 based on minutes watched across streaming platforms. Netflix was the most watched platform, probably because little kids drove their parents insane by putting Encanto on repeat all day. I'm a little confused by the black bar for Criminal Minds and I can't tell what its label says at the bottom. The intended audience is probably people interested in the streaming market. It would help to specify if it's a TV show or Movie. I also need more clarification what Minutes means. I love the colors and cute symbols at the bottom though. |
 |  elementary school teacher, mid-20s | This looks like the most streamed programs in minutes. Almost all of these programs are on netflix. I'd think this is for people looking to make new programs and see what's popular. |
 
+The key issues I identified were:
+- The message was sort of getting communicated that Netflix had the most streamed programs, but I needed to be clearer.
+- What the minutes were measuring was unclear to audiences and needed more explanation.
+- It may not be clear that the colors of the bars match the logos of the companies.  
+
+While it was not mentioned in feedback, I also know that I was not able to scale the bars correctly to show that Stranger Things had over twice the amount of viewing time compared to Criminal Minds.
+
 ---
 # step 5: The Solution
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12665615"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+<div class='tableauPlaceholder' id='viz1675830132025' style='position: relative'><noscript><a href='#'><img alt='Netflix Still Leads Streaming Viewership Most Streamed Programs in 2022 by Total Minutes Viewed (Billions) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DataViz34&#47;MostStreamedPrograms20222&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DataViz34&#47;MostStreamedPrograms20222' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DataViz34&#47;MostStreamedPrograms20222&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div> 
+
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1675830132025');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
