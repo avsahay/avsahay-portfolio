@@ -21,14 +21,23 @@ This method was useful for considering not just the visual elements but the larg
 For this visualization, I would first switch the chart from horizontal bars to vertical, to show the magnitude of the largest streaming program. Second, I would remove the remote image and the program promo images in the bars to reduce clutter and improve aesthetics.
 
 ---
-# step 3: Solution Sketch
+# step 3: The Sketch
 
 ![The Solution Sketch](StreamingSketch.jpg)
 
 I implemented my initial recommendations first. I turned the chart vertical to better show the high value of Stranger Things. In addition I removed the platform logos and additional imagery. I still captured the platforms with logos and reducing the bar chart colors to match the logos. This started to show a greater story about how Netflix programs occupy most of the top 15 most streamed programs. I still kept the numnbers showing the minutes viewed for each record, but I did reduce the tic marks on the axis. I also captured the program names in the vertical bars. 
 
 ---
-# step 4: User Feedback
+# step 4: The Test
+
+| User | Feedback |
+| --- | --- |
+| student, mid-20s | This looks like a chart on most streamed programs. I'm not sure what year, but I think it's based on the length of the show. This tells me Netflix has long shows, but I'm confused if it means minutes in the show or how much streamed. I can't tell who the audience is. I need labels or something to explain the difference in color. Why is there so much red? |
+| student, mid-20s | This looks like the most streamed programs in 2022 based on minutes watched across streaming platforms. Netflix was the most watched platform, probably because little kids drove their parents insane by putting Encanto on repeat all day. I'm a little confused by the black bar for Criminal Minds and I can't tell what its label says at the bottom. The intended audience is probably people interested in the streaming market. It would help to specify if it's a TV show or Movie. I also need more clarification what Minutes means. I love the colors and cute symbols at the bottom though. |
+|  elementary school teacher, mid-20s | This looks like the most streamed programs in minutes. Almost all of these programs are on netflix. I'd think this is for people looking to make new programs and see what's popular. |
+
+---
+# step 5: The Solution
 
 
 
