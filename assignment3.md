@@ -67,4 +67,6 @@ In class, I did receive some more feedback from my peers. The simplicity of the 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-To incorporate the legend, I then built the solution in Tableau. A cool feature is that the legend allows users to highlight the matching data, which strengthens the story of Netflix's dominance by the metric of total minutes viewed. 
+To incorporate the legend, I then built the solution in Tableau which allowed me to categorize each record by streaming platform too. While the colors of the bar no longer match the logos exactly, they are explained by the legend. A cool feature is that the legend allows users to highlight the matching data, which strengthens the story of Netflix's dominance by the metric of total minutes viewed. I also updated the subtitle to clarify which year the data was collected. I was able to preserve the pop-ups that include more information for each program. 
+
+This solution tells a better story with the data.
