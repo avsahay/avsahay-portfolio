@@ -46,9 +46,16 @@ While it was not mentioned in feedback, I also know that I was not able to scale
 ---
 # step 5: The Solution
 
+**attempt 1: Flourish**
 <div class="flourish-embed flourish-chart" data-src="visualisation/12665615"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+My first attempt at a solution was built in Flourish because I felt more comfortable with the interface. Taking the feedback into account, I decided not to use logos in the graphic, and even removed unnecessary grid lines to clear up clutter. I moved the program labels to the bottom to make them easier to read. I also updated the title to more clearly communicate the story of the visualization, and used the subtitle to explain the measure of minutes more clearly. Finally, I made the data values horizontally aligned to make them easier to read. 
 
+Unfortunately, I could not create a legend with the data organized by program, as each program received its own label. That created too much visual clutter, so instead I used a filter that showed which bars/programs came from which streaming service. It was not an ideal solution, but worked with the limitaitons of Flourish. Flourish did allow me to add some more information to the pop-ups, like the number of episodes per program for more curious audiences who wonder how program length affects total minutes viewed. 
+
+In class, I did receive some more feedback from my peers. The simplicity of the aesthetic was appreciated, as were the data points being written within the bars. The colors matching the logos of the companies was also useful. While the title was stronger, they still wondered which year the data was referring to as it was unclear if the data was current. They also felt a legend would be better for communicating the connection between the colors and the companies rather than the filter.
+
+**attempt 2: Tableau**
 <div class='tableauPlaceholder' id='viz1675830132025' style='position: relative'><noscript><a href='#'><img alt='Netflix Still Leads Streaming Viewership Most Streamed Programs in 2022 by Total Minutes Viewed (Billions) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DataViz34&#47;MostStreamedPrograms20222&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DataViz34&#47;MostStreamedPrograms20222' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DataViz34&#47;MostStreamedPrograms20222&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div> 
 
 <script type='text/javascript'>
@@ -60,3 +67,4 @@ While it was not mentioned in feedback, I also know that I was not able to scale
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+To incorporate the legend, I then built the solution in Tableau. A cool feature is that the legend allows users to highlight the matching data, which strengthens the story of Netflix's dominance by the metric of total minutes viewed. 
