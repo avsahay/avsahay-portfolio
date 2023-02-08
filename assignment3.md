@@ -1,6 +1,7 @@
 # assignment 3: 📋 Critique By Design
 ---
 # step 1: The Original Data Visualization
+
 ![The Original Visualization](Most Streamed Programs.png)
 [Source](https://www.reddit.com/r/dataisbeautiful/comments/10u0etq/oc_the_most_streamed_programs/)
 
@@ -17,7 +18,17 @@ Since the visualization was found on Data Is Beautiful Subreddit, the audience i
 
 This method was useful for considering not just the visual elements but the larger information and insight the audience is meant to gain from the visualization. I may include some measures to help diagnose common issues in visualizations like redundancy.  The measures generally cover in one category or another key qualities of a good visualization - time to understanding could be considered in usefulness, intuitiveness and perceptibility. 
 
-For this visualization, I would first switch the chart from horizontal bars to vertical, to show the magnitude of the largest streaming program. Second, I would remove the remote image, platform logos, and the program promo images in the bars to reduce clutter and improve aesthetics.
+For this visualization, I would first switch the chart from horizontal bars to vertical, to show the magnitude of the largest streaming program. Second, I would remove the remote image and the program promo images in the bars to reduce clutter and improve aesthetics.
 
 ---
+# step 3: Solution Sketch
+
+![The Solution Sketch](StreamingSketch.jpg)
+
+I implemented my initial recommendations first. I turned the chart vertical to better show the high value of Stranger Things. In addition I removed the platform logos and additional imagery. I still captured the platforms with logos and reducing the bar chart colors to match the logos. This started to show a greater story about how Netflix programs occupy most of the top 15 most streamed programs. I still kept the numnbers showing the minutes viewed for each record, but I did reduce the tic marks on the axis. I also captured the program names in the vertical bars. 
+
+---
+# step 4: User Feedback
+
+
 
