@@ -26,6 +26,6 @@
 
 | `examples` | `assignments` | `final` |   
 | --- | --- | --- |  
-| - | 💰 [Visualizing Government Debt](assignment2.md) | ☑️ [Part One](finalpart1.md) |  
+| - | 💰 [Visualizing Government Debt](assignment2.md) | ☑️ [Part One](FinalPart1.md) |  
 | - | 📋 [Critique By Design](assignment3.md) | ☑️ Part Two |  
 | - | - | ☑️ Part Three |  
