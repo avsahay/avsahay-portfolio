@@ -5,7 +5,7 @@
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmTLQn39XloouyRQ80V6ELRsPIZ7Noy4deP_ktt7p4H4abKLd5ZMWeg1jINCRaWw3q_TAYQq6NGKsN/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-__Context:__ To limit the scope of the project for this class, I reduced the data set from [IMDb](https://www.imdb.com/) to focus solely on superhero films released after 2000, which provided me 128 data points for analysis. While I am using Google Slides as a storyboarding tool, the final project will be built in Shorthand.
+__Context:__ To limit the scope of the project for this class, I reduced the data set from [IMDb](https://www.imdb.com/) to focus solely on superhero films released after 2000, which provided me [128 data points](https://docs.google.com/spreadsheets/d/1yEphC6aMIq_Fq_UDiWkWj46SEul6wLHocYowYDP2Luo/edit?usp=sharing) for analysis. While I am using Google Slides as a storyboarding tool, the final project will be built in Shorthand.
 
 __Set Up:__ First, I will define what constitutes a superhero movie to provide context. I am sure most audiences would be familiar with DC or Marvel Comics based movies like _The Dark Knight_ or _Iron Man_ trilogy, but for this presentation, I am considering all movies that feature or centralize around a figure with extraordinary powers/abilities. After showing the general increase in superhero movies, I will show the impact from a business perspective by introducing revenue figures and which companies are profiting. These visualizations should strengthen the importance of this issue: superhero movies are fun, but they are also a popular choice for production companies because they make so much money. 
 
@@ -16,17 +16,36 @@ __Resolution:__ Having shown why the proliferation of superhero movies is more t
 ---
 # the sketches
 
-__Visualization 1__
-<div class='tableauPlaceholder' id='viz1677193809114' style='position: relative'><noscript><a href='#'><img alt='More superhero movies are released every year ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectTheSuperheroInvasion&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript>
-<object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalProjectTheSuperheroInvasion&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectTheSuperheroInvasion&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object>
-</div>                
+<div class='tableauPlaceholder' id='viz1677195631600' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectTheSuperheroInvasion&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalProjectTheSuperheroInvasion&#47;Sheet1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectTheSuperheroInvasion&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1677193809114');
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  var divElement = document.getElementById('viz1677195631600');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width='90%';
-  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';        
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';  
+  var scriptElement = document.createElement('script');   
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';   
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);      
 </script>
+_Source: [Extract](https://docs.google.com/spreadsheets/d/1yEphC6aMIq_Fq_UDiWkWj46SEul6wLHocYowYDP2Luo/edit?usp=sharing) of [IMdB](https://www.imdb.com/)_
+
+__Visualization 1:__ I decided to use a line graph to show change over time. I tried a couple quick calculations to see if I could smooth the jagged drops and heights a bit, but they didn't seem to reflect as accurately the changes from year to year. I decided a trendline would help illustrate the general point that superhero movies are increasing. At first glance, it does not seem too significant.
+
+__Visualization 2:__ This graph shows the impact of those few movies. Since I am showing revenue by year, I chose an area graph to give the viewer a sense of accumulation. The y axis is labeled to highlight that this graph is showing _billions_ of dollars of profit. It draws the eye to the larger 'mountains of cash' as indicated by my use of green in more recent years (Lecture 2, TSWD). In short, superhero movies = LOTS of money. 
+
+__Visualization 3:__ As it turns out, Walt Disney Pictures has made the most revenue off of superhero movies. I chose to sort the horizontal bars in ascending order to force the viewer's eye to travel past the many companies Walt Disney surpasses. I maintain a consistent visual vocabulary by using the same shade of green to represent money again (Lecture 2, TSWD). Again, I keep the axis label to highlight the fact that these companies are making profit in the range of billions of dollars.
+
+__Visualization 4:__ I decided to use a histogram to show how many actresses were among the top four billed cast for superhero movies. When I was first organizaing the data, I had planned to only use the top three billed cast as a measure for gender representation. Unfortunately, when I did so, it resulted in much fewer movies with _any_ women in the lead. To account for measures in IMdB's algorithim with mehcanisms for measuring top billed rankings I don't understand, I decided to use the top four. Still, it is not a very good sign given how the curve tapers off. 
+
+__Visualization 5:__ I originally considered making this visualization a simple statistic. However, I decided on the pie chart because it evokes a sense of female perspectives being swallowed by the male perspective. I used the same color to count women as before. 
+
+__Visualization 6:__ In my call to action, I want to draw attention to the reciprocal relationship between audiences spending their money on movies intentionally and production companies investing in movies that are gaining audiences, so I will be using iconography to show the relationship to support my words during my presentation. 
+
+---
+
+| `home` | `part 1` |
+| --- | --- | 
+
+
+
+
