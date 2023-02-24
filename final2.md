@@ -42,8 +42,37 @@ __Visualization 5:__ I originally considered making this visualization a simple 
 __Visualization 6:__ In my call to action, I want to draw attention to the reciprocal relationship between audiences spending their money on movies intentionally and production companies investing in movies that are gaining audiences, so I will be using iconography to show the relationship to support my words during my presentation. 
 
 ---
+# the user research: protocol
+
+__Target Audience__
+
+1. General Public - As briefly mentioned earlier, one of my call to actions, and thus the presentation, is directed towards the general public. This audience is likely familiar with superhero movies and has seen at least one. They may or may not like it, but that is less relevant. More importantly, they likely have not critically about the impact of superhero movies and see it as a trend.
+2. Entertainment Professionals - The other audience of my presentation are entertainment professionals who work in the industry and may have some degree of power in the production process. They likely know how much money is being made from superhero movies, and even which companies are profiting most. However, they may not have considered the gender disparity being reflected in the business. 
+
+To cover these potential interests and backgrounds of my target audience, I decided to three people with varying degrees of movie interest. I knew I had access to students studying entertainment who would have some knowledge of the business and likely seen several superhero movies. I also approached someone I knew did not care for superhero movies but had seen a few. 
+- _User A_: Man, Graduate Student, Mid-20's, Studying Entertainment Industry Management. Watches Marvel movies. 
+- _User B_: Woman, Dental Hygenist, Mid-50's, Does not like superhero movies, has seen some.
+- _User C_: Man, Game Developer, Early-20's, Watches Marvel and DC movies _and_ TV shows. 
+
+__Interview Questions__
+
+_Objective_: Understand if the importance of the issue is communicated.
+> What do you think is important about this topic? Is it important?
+
+_Objective_: Ensure the data visualizations make sense.
+> What did you think of the data visualizations? Was one easier to read? Was one more difficult to read?
+
+_Objective_: Check if visualizations support message.
+> Why do you think this visualization was used? Did it work?
+
+_Objective_: See if call to action is effective.
+> At the end of the presentation, what were your first thoughts?
+
+
+# navigate
 
 | `home` | `part 1` |
+-----
 | --- | --- | 
 
 
