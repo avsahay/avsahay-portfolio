@@ -88,7 +88,7 @@ __Key Insights__
 __Proposed Changes__
 
 | Feedback | Change | Priority |
----
+| --- | --- | --- |
 | Visualization 4 is hard to understand. | Add a label to the horizontal axis. I had actually struggled with this in Tableau, so as a last resort I can use image editing to impose a label. | High |
 | Colors were too calm/not dramatic enough. | Choose and apply a dramatic color scheme. Bold colors, inspired by comic books and popular superhero costume colors (black, red, blue, yellow). | High | 
 | Visualization 3 was difficult to read. | Reduce data points (group minor production companies as "Other") and use gray and colors to show how far ahead Disney is. | Medium |
@@ -96,7 +96,7 @@ __Proposed Changes__
 | Visualization 6 is hard to understand without explanation. | Instead of just iconography, I'll try using Infogram to create a diagram for the call to action. | Low |
 
 ---
-| [portfolio.](README.md) | [part 1.](final1.md) | part 3. (upcoming) |
+__[portfolio.](README.md) | [part 1.](final1.md) | part 3. (upcoming)__
 
 
 
