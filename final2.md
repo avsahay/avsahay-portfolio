@@ -93,6 +93,7 @@ __Proposed Changes__
 | Colors were too calm/not dramatic enough. | Choose and apply a dramatic color scheme. Bold colors, inspired by comic books and popular superhero costume colors (black, red, blue, yellow). | High | 
 | Visualization 3 was difficult to read. | Reduce data points (group minor production companies as "Other") and use gray and colors to show how far ahead Disney is. | Medium |
 | Visualization 5 has unnecessary information and does not live up to the story. | Remove legend and label in some other way. Use more dramatic colors. | Medium |
+| Unclear if message is specific to superhero movies | Add some statistics/visualizations for comparison | Medium |
 | Visualization 6 is hard to understand without explanation. | Instead of just iconography, I'll try using Infogram to create a diagram for the call to action. | Low |
 
 ---
