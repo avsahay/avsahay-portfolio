@@ -1,6 +1,6 @@
 # the final project: part 2
 ---
-# the wireframe
+# the storyboard.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmTLQn39XloouyRQ80V6ELRsPIZ7Noy4deP_ktt7p4H4abKLd5ZMWeg1jINCRaWw3q_TAYQq6NGKsN/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -14,7 +14,7 @@ __Conflict:__ It is easy to assume that this issue is not particularly important
 __Resolution:__ Having shown why the proliferation of superhero movies is more than a cultural moment, I will end with a call to action for two different audiences. The first would be a general audience - someone who knows about superhero movies and has likely seen at least a few, regardless of their feelings towards them. I call them to consider more critically what movies they buy tickets for as their choice has deeper impact than they may realize. The second is an entertainment-savvy audience - someone who is educated through academia or practice about the movie industry and understands the business. I call them to advocate for investment in other genres. The calls to action feed into each other: audiences buying tickets for other genres of movies encourages investment in them, resulting in more variety of movies for audiences.
 
 ---
-# the sketches
+# the wireframes.
 
 <div class='tableauPlaceholder' id='viz1677195631600' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectTheSuperheroInvasion&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalProjectTheSuperheroInvasion&#47;Sheet1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectTheSuperheroInvasion&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 
@@ -73,20 +73,30 @@ _Objective IV_: See if call to action is effective.
 
 | Feedback | User A | User B | User C | 
 | --- | --- | --- | --- | --- |
-| Objective I | aa | bb | cc | 
-| Objective II | aa | bb | cc | 
-| Objective III | aa | bb | cc | 
-| Objective IV | aa | bb | cc | 
+| Objective I | Superhero movies are such high budget productions, and ultimately, companies have a budget each year. "If money is being spent on superhero movies, it isn't being spent on other, diverse, unique movies." Didn't realize gender disparity in directors was so bad.  | Didn't think topic would be important. Had not noticed the gender disparity, but she could see it in retrospect.| Thinks it is important. However, isn't certain the issue is specific to superhero genre. | 
+| Objective II | Visualization 3 was not dramatic enough. Had a little difficulty understanding Visualization 4. Didn't understand what horizontal axis was. Design-wise it also seemed too different and vertical from other visualizations. Same with Visualization 5 - felt the pie chart felt "too calm for how shocking the stat is. Maybe it's the color scheme?" Visualization 6 would be confusing without explanation. | Trendline in Visualization 1 made the title seem "hyperbolic." Visualization 2 was more impressive because of the vertical axis units, surprised her. Visualization 3 was hard to read, text was too close together. Didn't understand horizontal axis in Visualization 4 without explanation. Colors too similar in Visualization 5. Visualization 6 was also difficult to understand without explanation.  | Visualizations were mostly easy to read. Visualization 4 needed label for horizontal access. Formatting of Visualization 5 was off - why was there a gray bar for the total number of directors? Liked dark color background, should use more consistently with chart colors too. | 
+| Objective III | The visualizations used generally made sense with context provided from me while speaking. Isn't sure it'd be as easy to understand to the average viewer. | Visualizations 4 and 6 were hard to understand without explanation. Generally supported message, except Visualization 1 made it seem more like "a superhero creep instead of invasion." | Generally supported the message, but didn't necessarily seem like an issue limited to superhero movies. Were there other statistics for female directors in other genres? Had I considered race? | 
+| Objective IV | "This makes me feel better about spending too much money at indie theaters watching more niche movies." | She wants to use this to convince her family not to see superhero movies because she finds them boring anyway. | Geniunely enjoys superhero movies so he's probably still going to spend money on them. | 
 
 __Key Insights__
 
-1. 
+1. The topic is engaging! Even for those who were uninterested in superhero movies, the impact of the genre was interesting to see. 
+2. The color scheme needs to be more dramatic to highlight some of my points, narratively. In the final project, definitely want consistent color scheme. 
+3. The histogram was difficult to understand without a label in the horizontal axis.
+4. The call to action seems somewhat successful - User A reaffirmed the action they were already doing, and User B was encouraged to inform others and advocate for the action. Technically, User C is also thinking critically, even if it did not result in my desired outcome.
 
 __Proposed Changes__
-- 
+
+| Feedback | Change | Priority |
+---
+| Visualization 4 is hard to understand. | Add a label to the horizontal axis. I had actually struggled with this in Tableau, so as a last resort I can use image editing to impose a label. | High |
+| Colors were too calm/not dramatic enough. | Choose and apply a dramatic color scheme. Bold colors, inspired by comic books and popular superhero costume colors (black, red, blue, yellow). | High | 
+| Visualization 3 was difficult to read. | Reduce data points (group minor production companies as "Other") and use gray and colors to show how far ahead Disney is. | Medium |
+| Visualization 5 has unnecessary information and does not live up to the story. | Remove legend and label in some other way. Use more dramatic colors. | Medium |
+| Visualization 6 is hard to understand without explanation. | Instead of just iconography, I'll try using Infogram to create a diagram for the call to action. | Low |
 
 ---
-| `portfolio` | `part 1` |
+| [portfolio.](README.md) | [part 1.](final1.md) | part 3. (upcoming) |
 
 
 
