@@ -44,3 +44,6 @@ My presentation will be shared via Shorthand. I plan to conduct any additional u
 | Edit/Update Visualizations | 2/21 | 
 | Build in Shorthand | 2/25 | 
 | Practice Presentation | 2/28 |
+
+---
+__[portfolio.](README.md) | [part 2.](final2.md) | part 3. (upcoming)__
