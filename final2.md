@@ -56,24 +56,39 @@ To cover these potential interests and backgrounds of my target audience, I deci
 
 __Interview Questions__
 
-_Objective_: Understand if the importance of the issue is communicated.
+_Objective I_: Understand if the importance of the issue is communicated.
 > What do you think is important about this topic? Is it important?
 
-_Objective_: Ensure the data visualizations make sense.
+_Objective II_: Ensure the data visualizations make sense.
 > What did you think of the data visualizations? Was one easier to read? Was one more difficult to read?
 
-_Objective_: Check if visualizations support message.
+_Objective III_: Check if visualizations support message.
 > Why do you think this visualization was used? Did it work?
 
-_Objective_: See if call to action is effective.
+_Objective IV_: See if call to action is effective.
 > At the end of the presentation, what were your first thoughts?
 
+---
+# the user research: findings
 
-# navigate
+| Feedback | User A | User B | User C | 
+| --- | --- | --- | --- | --- |
+| Objective I | aa | bb | cc | 
+| Objective II | aa | bb | cc | 
+| Objective III | aa | bb | cc | 
+| Objective IV | aa | bb | cc | 
 
-| `home` | `part 1` |
------
-| --- | --- | 
+__Key Insights__
+
+1. 
+
+__Proposed Changes__
+- 
+
+---
+| `portfolio` | `part 1` |
+
+
 
 
 
