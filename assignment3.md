@@ -70,3 +70,11 @@ In class, I did receive some more feedback from my peers. The simplicity of the 
 To incorporate the legend, I then built the solution in Tableau which allowed me to categorize each record by streaming platform too. While the colors of the bar no longer match the logos exactly, they are explained by the legend. A cool feature is that the legend allows users to highlight the matching data, which strengthens the story of Netflix's dominance by the metric of total minutes viewed. I also updated the subtitle to clarify which year the data was collected. I was able to preserve the pop-ups that include more information for each program. 
 
 This solution tells a better story with the data.
+
+# navigation
+
+| `assignments` | `final` |   
+| --- | --- |  
+| 💰 [Visualizing Government Debt](assignment2.md) | ☑️ [Part One](final1.md) |  
+| 📋 [Critique By Design](assignment3.md) | ☑️ [Part Two](final2.md) |  
+| 🗂️ [RETURN TO PORTFOLIO](README.md) | ☑️ [Part Three](https://carnegiemellon.shorthandstories.com/never-meet-your-heroes/index.html) |  
