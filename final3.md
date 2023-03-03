@@ -18,6 +18,8 @@ __Future Improvements__
 
 With more time, I would like to do additional data visualizations on other genres to further prove my point. I was only able to include a table showing a general trend of target audiences, but with more resources I could do a similar analysis regarding gender ratios in cast and crew to show how money is not transferring to certain demographics. My original concept of using more data from IMDb would allow me to better demonstrate the impact of the superhero movies on other genres, which would be stronger for my call to action.  
 
+Also, I belatedly realized that the embed in the Github page changes the coloring slightly, so I would experiment and refine my color palette to make it accessible. 
+
 ---
 # the final product. 
 
