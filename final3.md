@@ -2,23 +2,21 @@
 ---
 # the process.
 
-__Part One__
-- _The Outline_: 
-- _The Sketches_
-- _The Data_
-- _The Method and Medium_
+__Edits__
 
-__Part Two__
-- _The Storyboard_
-- _The Wireframes_
-- _The User Research_
 
 __Presentation__
 
+
 __Future Improvements__
+
 
 ---
 # the final product. 
+
+[View In New Window](https://carnegiemellon.shorthandstories.com/never-meet-your-heroes/embed.js)
+
+---
 
 <script src="https://carnegiemellon.shorthandstories.com/never-meet-your-heroes/embed.js"></script>
 
