@@ -2,6 +2,19 @@
 ---
 # the process.
 
+__Part One__
+- _The Outline_
+- _The Sketches_
+- _The Data_
+- _The Method and Medium_
+
+__Part Two__
+- _The Storyboard_
+- _The Wireframes_
+- _The User Research_
+
+__Presentation__
+- 
 ---
 # the final product. 
 
