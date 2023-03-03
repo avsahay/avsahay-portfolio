@@ -28,4 +28,4 @@
 | --- | --- |  
 | 💰 [Visualizing Government Debt](assignment2.md) | ☑️ [Part One](final1.md) |  
 | 📋 [Critique By Design](assignment3.md) | ☑️ [Part Two](final2.md) |  
-| - | ☑️ [Part Three](https://carnegiemellon.shorthandstories.com/never-meet-your-heroes/index.html) |  
+| - | ☑️ [Part Three](final3.md) |  
