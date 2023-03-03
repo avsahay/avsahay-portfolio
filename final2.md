@@ -96,15 +96,14 @@ __Proposed Changes__
 | Unclear if message is specific to superhero movies | Add some statistics/visualizations for comparison | Medium |
 | Visualization 6 is hard to understand without explanation. | Instead of just iconography, I'll try using Infogram to create a diagram for the call to action. | Low |
 
+---
 # navigation
 
 | `assignments` | `final` |   
 | --- | --- |  
 | 💰 [Visualizing Government Debt](assignment2.md) | ☑️ [Part One](final1.md) |  
 | 📋 [Critique By Design](assignment3.md) | ☑️ [Part Two](final2.md) |  
-| 🗂️ [RETURN TO PORTFOLIO](README.md) | ☑️ [Part Three](https://carnegiemellon.shorthandstories.com/never-meet-your-heroes/index.html) |  
-
-
+| 🗂️ [RETURN TO PORTFOLIO](README.md) | ☑️ [Part Three](final3.md) |  
 
 
 
