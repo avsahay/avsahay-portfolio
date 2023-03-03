@@ -71,10 +71,11 @@ To incorporate the legend, I then built the solution in Tableau which allowed me
 
 This solution tells a better story with the data.
 
+---
 # navigation
 
 | `assignments` | `final` |   
 | --- | --- |  
 | 💰 [Visualizing Government Debt](assignment2.md) | ☑️ [Part One](final1.md) |  
 | 📋 [Critique By Design](assignment3.md) | ☑️ [Part Two](final2.md) |  
-| 🗂️ [RETURN TO PORTFOLIO](README.md) | ☑️ [Part Three](https://carnegiemellon.shorthandstories.com/never-meet-your-heroes/index.html) |  
+| 🗂️ [RETURN TO PORTFOLIO](README.md) | ☑️ [Part Three](final3.md) |  
