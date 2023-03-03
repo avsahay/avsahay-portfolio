@@ -3,7 +3,7 @@
 # the process.
 
 __Part One__
-- _The Outline_
+- _The Outline_: 
 - _The Sketches_
 - _The Data_
 - _The Method and Medium_
@@ -14,7 +14,9 @@ __Part Two__
 - _The User Research_
 
 __Presentation__
-- 
+
+__Future Improvements__
+
 ---
 # the final product. 
 
