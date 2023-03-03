@@ -22,10 +22,11 @@ The Flourish Walk Through creates a sparkline visualization that can seem a litt
 
 In my uniquely designed visualization, I tried to create a narrative around debt over time for countries traditionally perceived as world leaders, and how they compared to rest of the world today. To accomplish this, I first reduced the data to focus on G7 countries (Canada, France, Germany, Italy, Japan, United Kingdom, and the United States). Since I wanted to show change over time, I kept it a line chart. However, instead of a grid, I used a filter to show one country's timeline of debt at a time. For the comparison against the world with the most recent data, I chose to include an annotation on the y-axis showing the value of the OECD average. I again felt it was prudent to include the pop ups, so curious parties could compare exact numbers more easily. However, instead of using a subtitle, I indicated the measurement of debt by labeling the y-axis.
 
+---
 # navigation
 
 | `assignments` | `final` |   
 | --- | --- |  
 | 💰 [Visualizing Government Debt](assignment2.md) | ☑️ [Part One](final1.md) |  
 | 📋 [Critique By Design](assignment3.md) | ☑️ [Part Two](final2.md) |  
-| 🗂️ [RETURN TO PORTFOLIO](README.md) | ☑️ [Part Three](https://carnegiemellon.shorthandstories.com/never-meet-your-heroes/index.html) |  
+| 🗂️ [RETURN TO PORTFOLIO](README.md) | ☑️ [Part Three](final3.md) |  
