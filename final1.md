@@ -45,10 +45,11 @@ My presentation will be shared via Shorthand. I plan to conduct any additional u
 | Build in Shorthand | 2/25 | 
 | Practice Presentation | 2/28 |
 
+---
 # navigation
 
 | `assignments` | `final` |   
 | --- | --- |  
 | 💰 [Visualizing Government Debt](assignment2.md) | ☑️ [Part One](final1.md) |  
 | 📋 [Critique By Design](assignment3.md) | ☑️ [Part Two](final2.md) |  
-| 🗂️ [RETURN TO PORTFOLIO](README.md) | ☑️ [Part Three](https://carnegiemellon.shorthandstories.com/never-meet-your-heroes/index.html) |  
+| 🗂️ [RETURN TO PORTFOLIO](README.md) | ☑️ [Part Three](final3.md) |  
